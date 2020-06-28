@@ -1,0 +1,1 @@
+# RUST in python via ctypes based on [link](https://blog.nicco.io/2020/01/01/rust-in-python-made-easy/)
